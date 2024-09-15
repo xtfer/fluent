@@ -100,7 +100,7 @@ Run the executable:
 
 - **Function Declaration**:
 
-  ```fluent
+  ```
   func main():
       # Function body
   ```
@@ -111,7 +111,7 @@ Run the executable:
 
 - **If Statement**:
 
-  ```fluent
+  ```
   if condition:
       # Then block
   else:
@@ -120,7 +120,7 @@ Run the executable:
 
 - **While Loop**:
 
-  ```fluent
+  ```
   while condition:
       # Loop body
   ```
@@ -136,7 +136,7 @@ Run the executable:
 
 ### Sample Fluent Program (`test.flu`)
 
-```fluent
+```
 func main():
     let x = 10
     var y = 20
