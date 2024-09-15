@@ -2,6 +2,8 @@
 
 **Fluent** is a high-level, statically-typed programming language designed for simplicity, safety, and expressiveness. This repository contains a basic compiler for Fluent, written in C. The compiler currently translates Fluent code into C code, which can then be compiled with a C compiler like GCC.
 
+Fluent was written as an experiment in creating a programming language and is neither complete nor 100% bug-free. It is intended for educational purposes and as a learning experience for the author.
+
 ## Table of Contents
 
 - [Features](#features)
