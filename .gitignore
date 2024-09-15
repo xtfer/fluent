@@ -1,0 +1,91 @@
+fluentc
+
+# Compiled object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Dependency files
+*.d
+*.depend
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.db
+
+# Core dump files
+core
+core.*
+
+# Temporary files
+*~
+\#*\#
+.\#*
+.*.swp
+.*.swo
+*.tmp
+
+# Temporary directories
+tmp/
+temp/
+
+# Generated files
+*.gen.cpp
+*.generated.cpp
+
+# Build directories
+/build/
+/bin/
+/Debug/
+/Release/
+/dist/
+/obj/
+/out/
+
+# IDE and editor files
+/.vscode/
+/.idea/
+/*.code-workspace
+
+# Mac OS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+
+# Linux directory files
+.directory
+
+# CodeBloc
